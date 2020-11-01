@@ -1,6 +1,4 @@
 # POS
---------------------------------------------------------- INSTALLATION  ---------------------------------------------------------------
-
 
 Offline mode
 Your PC must  be installed XAMPP or WAMPP /LAMPP etc
@@ -14,4 +12,7 @@ download the file and Extract file and copy to htdocs / public for hosting
 next you can create a new sql databased and import the databased.sql file
 configuration databased in : application/config/config & database
 open in web server : localhost/pos
-Login with admin username and password : admin
+
+Login with admin username and password :
+
+# admin
